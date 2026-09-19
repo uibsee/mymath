@@ -19,7 +19,7 @@
   &nbsp;·&nbsp; <a href="docs/guide.md"><b>User guide</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.ko.md"><b>사용설명서</b></a><br>
   📄 PDF guide: <a href="https://mymath-indesign.web.app/MyMath-guide-en.pdf">English</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-de.pdf">Deutsch</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-fr.pdf">Français</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-ja.pdf">日本語</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-es.pdf">Español</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-zh.pdf">中文</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-pt.pdf">Português</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-it.pdf">Italiano</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-ru.pdf">Русский</a><br>
-  📘 · <a href="https://mymath-indesign.web.app/MyMath-manual-ko.pdf">전체 사용설명서 (한국어, 171쪽)</a><br>
+  📘 Full manual: <a href="https://mymath-indesign.web.app/manual-en">English</a> (<a href="https://mymath-indesign.web.app/MyMath-manual-en.pdf">PDF, 187 pages</a>) · <a href="https://mymath-indesign.web.app/manual">한국어</a> (<a href="https://mymath-indesign.web.app/MyMath-manual-ko.pdf">PDF, 169쪽</a>)<br>
   <sub>Windows · 85 MB · requires InDesign 18.5 (August 2023) or later</sub>
 </p>
 
@@ -55,7 +55,7 @@ There is nothing to configure. To remove it, uninstall "MyMath Editor" in Window
 | Bring in Word / Hangul files | **[Place manuscript]** — `.docx` / `.hwpx`, equations included |
 | Refresh a whole book | **[Re-render all equations]** — every equation picks up the new settings |
 
-See the **[user guide](docs/guide.md)** for the full walkthrough.
+See the **[user guide](docs/guide.md)** for the walkthrough, and the **[full manual](https://mymath-indesign.web.app/manual-en)** ([PDF](https://mymath-indesign.web.app/MyMath-manual-en.pdf)) for every button, preference, shortcut and palette.
 
 ## Highlights
 
@@ -119,7 +119,7 @@ Adobe and InDesign are trademarks of Adobe Inc. This project is not affiliated w
 | 워드·한글 원고 | **[원고 넣기 (워드·한글)]** — `.docx` `.hwpx` 안의 수식까지 한꺼번에 |
 | 책 전체 갱신 | **[모든 수식 다시 조판]** — 문서의 수식 전부를 새 설정으로 |
 
-자세한 내용은 **[사용설명서](docs/guide.ko.md)** 를, 환경설정·단축키·팔레트까지 담은 전체 설명서는 **[홈페이지](https://mymath-indesign.web.app/manual)** 또는 **[PDF (171쪽)](https://mymath-indesign.web.app/MyMath-manual-ko.pdf)** 로 보세요.
+자세한 내용은 **[사용설명서](docs/guide.ko.md)** 를, 환경설정·단축키·팔레트까지 담은 전체 설명서는 **[홈페이지](https://mymath-indesign.web.app/manual)** 또는 **[PDF (169쪽)](https://mymath-indesign.web.app/MyMath-manual-ko.pdf)** 로 보세요.
 
 ### 특징
 
