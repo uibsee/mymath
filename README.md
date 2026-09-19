@@ -2,8 +2,14 @@
 
 <h1 align="center">MyMath for InDesign</h1>
 
+<h3 align="center">Type an equation. It lands in your InDesign page — print-ready, and editable forever.</h3>
+
 <p align="center">
-  <b>Free equation tool for Adobe InDesign</b><br>
+  <b>Free</b> &nbsp;·&nbsp; <b>works inside InDesign</b> &nbsp;·&nbsp; <b>re-edit in place</b> &nbsp;·&nbsp;
+  <b>K100 vector</b> &nbsp;·&nbsp; <b>no sidecar files</b> &nbsp;·&nbsp; <b>no math fonts to install</b>
+</p>
+
+<p align="center">
   InDesign 문서에 수학 수식을 넣고 고치는 무료 도구 · <a href="#한국어">한국어</a>
 </p>
 
@@ -12,7 +18,8 @@
   <a href="https://github.com/uibsee/mymath/releases/latest/download/MyMath-Setup.exe"><b>⬇ Free download</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.md"><b>User guide</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.ko.md"><b>사용설명서</b></a><br>
-  📄 PDF: <a href="https://mymath-indesign.web.app/MyMath-guide-en.pdf">User guide (English)</a> · <a href="https://mymath-indesign.web.app/MyMath-manual-ko.pdf">전체 사용설명서 (한국어, 171쪽)</a><br>
+  📄 PDF guide: <a href="https://mymath-indesign.web.app/MyMath-guide-en.pdf">English</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-de.pdf">Deutsch</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-fr.pdf">Français</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-ja.pdf">日本語</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-es.pdf">Español</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-zh.pdf">中文</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-pt.pdf">Português</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-it.pdf">Italiano</a> · <a href="https://mymath-indesign.web.app/MyMath-guide-ru.pdf">Русский</a><br>
+  📘 · <a href="https://mymath-indesign.web.app/MyMath-manual-ko.pdf">전체 사용설명서 (한국어, 171쪽)</a><br>
   <sub>Windows · 85 MB · requires InDesign 18.5 (August 2023) or later</sub>
 </p>
 
