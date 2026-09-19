@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mymath-indesign.web.app"><b>🌐 mymath-indesign.web.app</b></a><br>
   <a href="https://github.com/uibsee/mymath/releases/latest/download/MyMath-Setup.exe"><b>⬇ Free download</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.md"><b>User guide</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.ko.md"><b>사용설명서</b></a><br>
@@ -87,7 +88,7 @@ Adobe and InDesign are trademarks of Adobe Inc. This project is not affiliated w
 언제든 같은 자리에서 다시 고칠 수 있습니다.
 
 **[⬇ 무료 다운로드 — MyMath-Setup.exe](https://github.com/uibsee/mymath/releases/latest/download/MyMath-Setup.exe)** ·
-**[사용설명서](docs/guide.ko.md)** — Windows · 85MB · **InDesign 18.5 (2023년 8월) 이상**
+**[사용설명서](docs/guide.ko.md)** · **[홈페이지](https://mymath-indesign.web.app)** — Windows · 85MB · **InDesign 18.5 (2023년 8월) 이상**
 
 ### 설치 — 파일 하나
 
@@ -109,7 +110,7 @@ Adobe and InDesign are trademarks of Adobe Inc. This project is not affiliated w
 | 워드·한글 원고 | **[원고 넣기 (워드·한글)]** — `.docx` `.hwpx` 안의 수식까지 한꺼번에 |
 | 책 전체 갱신 | **[모든 수식 다시 조판]** — 문서의 수식 전부를 새 설정으로 |
 
-자세한 내용은 **[사용설명서](docs/guide.ko.md)** 를 보세요.
+자세한 내용은 **[사용설명서](docs/guide.ko.md)** 를, 환경설정·단축키·팔레트까지 담은 전체 설명서는 **[홈페이지](https://mymath-indesign.web.app/manual)** 를 보세요.
 
 ### 특징
 
