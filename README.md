@@ -12,6 +12,7 @@
   <a href="https://github.com/uibsee/mymath/releases/latest/download/MyMath-Setup.exe"><b>⬇ Free download</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.md"><b>User guide</b></a>
   &nbsp;·&nbsp; <a href="docs/guide.ko.md"><b>사용설명서</b></a><br>
+  📄 PDF: <a href="https://mymath-indesign.web.app/MyMath-guide-en.pdf">User guide (English)</a> · <a href="https://mymath-indesign.web.app/MyMath-manual-ko.pdf">전체 사용설명서 (한국어, 171쪽)</a><br>
   <sub>Windows · 85 MB · requires InDesign 18.5 (August 2023) or later</sub>
 </p>
 
@@ -111,7 +112,7 @@ Adobe and InDesign are trademarks of Adobe Inc. This project is not affiliated w
 | 워드·한글 원고 | **[원고 넣기 (워드·한글)]** — `.docx` `.hwpx` 안의 수식까지 한꺼번에 |
 | 책 전체 갱신 | **[모든 수식 다시 조판]** — 문서의 수식 전부를 새 설정으로 |
 
-자세한 내용은 **[사용설명서](docs/guide.ko.md)** 를, 환경설정·단축키·팔레트까지 담은 전체 설명서는 **[홈페이지](https://mymath-indesign.web.app/manual)** 를 보세요.
+자세한 내용은 **[사용설명서](docs/guide.ko.md)** 를, 환경설정·단축키·팔레트까지 담은 전체 설명서는 **[홈페이지](https://mymath-indesign.web.app/manual)** 또는 **[PDF (171쪽)](https://mymath-indesign.web.app/MyMath-manual-ko.pdf)** 로 보세요.
 
 ### 특징
 
