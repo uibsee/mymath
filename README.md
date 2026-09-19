@@ -72,9 +72,10 @@ Write to **uibsee@hanmail.net** or open an [issue](https://github.com/uibsee/mym
 If something doesn't work, attaching `panel-boot.log` helps a lot — it is in the `PluginData` folder under
 `%APPDATA%\Adobe\UXP\PluginsStorage\IDSN`.
 
-## License
+## Terms
 
-[MIT](LICENSE). Bundles [MathLive](https://github.com/arnog/mathlive) (MIT),
+MyMath is free to use. The documentation in this repository is under the [MIT license](LICENSE).
+MyMath includes these open-source libraries: [MathLive](https://github.com/arnog/mathlive) (MIT),
 [MathJax](https://github.com/mathjax/MathJax) (Apache-2.0) and [Electron](https://github.com/electron/electron) (MIT).
 
 Adobe and InDesign are trademarks of Adobe Inc. This project is not affiliated with Adobe.
